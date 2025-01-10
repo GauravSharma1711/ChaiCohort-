@@ -128,6 +128,6 @@ git config --list
 Go to (https://github.com/) and log in to your account.
 <img width="958" alt="Screenshot 2025-01-10 221224" src="https://github.com/user-attachments/assets/84730ecf-4e55-4523-8ea2-ce0a0126169d" />
 Open dashboard and click on new
-<img width="958" alt="Screenshot 2025-01-10 221224" src="https://github.com/user-attachments/assets/24eca59d-6e06-4cbd-a899-7bec742fd484" />
+<img width="1344" alt="github com_new" src="https://github.com/user-attachments/assets/2e45057c-3b6b-4365-8d58-228a73da07b4" />
 Give name to your repo(ChaiCode) ,give it a description, add a README file (
-A README file is a text file that serves as the documentation for a project)
+A README file is a text file that serves as the documentation for a project) after that click on create repository
