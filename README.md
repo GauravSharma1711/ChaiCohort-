@@ -229,10 +229,11 @@ git pull origin main
 The git pull command is used to fetch and integrate changes from a remote repository into your local repository
 <br>
 
+<img width="690" alt="Screenshot 2025-01-10 234113" src="https://github.com/user-attachments/assets/dbc4f964-001e-4048-9a0a-255d7c0fd6f4" />
+
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/9dc71990-fd9c-4426-bd60-26745edcf799" />
 
-I made some changes in test.txt and want them to reflect back on my local repo
-![Uploading image.png…]()
+
 <br>
 
 
