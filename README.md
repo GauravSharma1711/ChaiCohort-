@@ -291,5 +291,7 @@ To ensure meaningful and standardized commit messages, follow these rules:
 <br>
 <h1>Branching<h1/>
 <br>
+Git branching allows you to create separate lines of development for different features, bug fixes, or experiments, without affecting the main codebase.
+
 
 
