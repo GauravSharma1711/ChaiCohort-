@@ -287,3 +287,8 @@ To ensure meaningful and standardized commit messages, follow these rules:
    - If your commit relates to an open issue or pull request, reference it in the commit message (e.g., `Fixes #123` or `Closes #45`).
    - **Example**: `fix: Correct user permissions logic (Closes #123)`
 
+<br>
+<h1>Branching<h1/>
+<br>
+
+
