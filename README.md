@@ -322,6 +322,21 @@ git branch -d <branch name>
 
 <br>
 
+<br>
+4. Merge Code
+<br>
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/f49f9f62-6354-454f-8ee8-f225b9a77760" />
+<img width="682" alt="image" src="https://github.com/user-attachments/assets/43b503f0-cd45-4054-ad57-1368ee0b3edc" />
+<br>
+Now merging both codes 
+<br>
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/c0906135-cba2-4e41-a9de-49a2351a88c8" />
+<br>
+Use circle option to resolve merge conflict
+<br>
+
+
+
 <hr>
 
 
