@@ -206,7 +206,9 @@ git push origin main
 <img width="797" alt="image" src="https://github.com/user-attachments/assets/a8f7563b-ead3-407a-afa4-9569e2d884e1" />
 <br>
 test.txt has been uploaded on your Github
+
 <br>
+
 5 git log
 ```
 git log
