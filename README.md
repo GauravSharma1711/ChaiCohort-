@@ -157,4 +157,13 @@ click on code
 <img width="799" alt="image" src="https://github.com/user-attachments/assets/33cf52e0-d1c6-4366-819a-b54fe9ac92ac" />
 <br>
 copy this link
+<br>
+Now open terminal in your code editor and write command
+```
+git clone <repository-url>
+
+```
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/244258f7-788c-4fbd-92f7-f48eaf902fb3" />
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/beafe905-e0ea-40a8-8bd1-9fd9956fece0" />
+Hurray! 🎉 Your chaicode repository has been cloned from your Github account to your local machine! 🚀
 
