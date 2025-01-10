@@ -228,6 +228,7 @@ git pull origin main
 ```
 The git pull command is used to fetch and integrate changes from a remote repository into your local repository
 <br>
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/7e8c36ec-5eee-4a73-b0c9-e146985fdbc6" />
 
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/9dc71990-fd9c-4426-bd60-26745edcf799" />
