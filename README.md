@@ -72,11 +72,11 @@ This checks if Git is installed correctly.
 
 
   
-<Br>
+<br>
 Click on Signup and create your Github account (It is similar to creating instagram account)
 
 
-<Br>
+<br>
 <img width="932" alt="image" src="https://github.com/user-attachments/assets/3a0a7315-21f6-47a7-bfb6-85dd36099b4f" />
 
 
