@@ -90,3 +90,11 @@ Click on Signup and create your Github account (It is similar to creating instag
 | Usage          | Version control and history management.     | Hosting repositories and team collaboration.|
 | Examples       | `git init`, `git commit`, `git push`.       | Pull requests, issue tracking, CI/CD.       |
 
+
+<h2>Configure Git<h2/>
+
+Link your Git to GitHub by setting your email and name:
+
+git config --global user.email "your-email@example.com"
+git config --global user.name "Your Name"
+git config --list
