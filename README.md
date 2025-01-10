@@ -236,52 +236,54 @@ I made some changes in test.txt and want them to reflect back on my local repo
 <br>
 
 
-<h1>Commit Message Rules:<h1/>
-1. Use Present Tense
-Always use the present tense to describe your changes.
-Example: Add new user authentication feature (not Added new user authentication feature).
-2. Capitalize the First Letter
-Start your commit message with a capital letter.
-Example: Fix typo in login form (not fix typo in login form).
-3. Keep It Short and Concise
-Keep the commit message 50 characters or fewer for the subject line. It should be a brief summary of the change.
-If necessary, add a detailed explanation in the body (after a blank line), but avoid long descriptions in the subject.
-Example: Fix login issue with invalid credentials.
-4. Use Prefixes for Categorization
-Use standardized prefixes to categorize the nature of the commit. Common prefixes include:
-fix: – For bug fixes.
-feat: – For new features.
-docs: – For documentation changes.
-chore: – For routine tasks, such as refactoring or maintenance.
-style: – For formatting changes (e.g., code style).
-test: – For adding or modifying tests.
-Examples:
-feat: Add user registration page
-fix: Resolve issue with form validation
-docs: Update README with setup instructions
-chore: Refactor authentication module
-5. Provide Context
-If necessary, provide context for why the change is being made, especially for larger or more complex changes. If the commit is not self-explanatory, add a detailed explanation in the body of the message.
+### Commit Message Rules
 
-Example:
+To ensure meaningful and standardized commit messages, follow these rules:
 
-plaintext
-Copy code
-feat: Add social login options
+#### 1. **Use Present Tense**
+   - Always use the present tense to describe your changes.
+   - **Example**: `Add new user authentication feature` (not `Added new user authentication feature`).
 
-Added Google and Facebook login options to improve user onboarding experience.
-6. Avoid Redundancy
-Don't repeat the same information. For example, don’t start the message with "Update" or "Fix," as these are implied by the context.
-Bad: Update the login page
-Good: Fix login page display issue
-7. Reference Issues or Pull Requests
-If your commit relates to an open issue or pull request, reference it in the commit message (e.g., Fixes #123 or Closes #45).
-Example: fix: Correct user permissions logic (Closes #123)
-Example Commit Messages:
-plaintext
-Copy code
-feat: Add search functionality to the dashboard
-fix: Correct typo in the registration form
-docs: Update README with installation instructions
-chore: Clean up unused variables in app.js
-By following these commit message rules, you ensure that your project history remains clean, organized, and easy to understand.
+#### 2. **Capitalize the First Letter**
+   - Start your commit message with a capital letter.
+   - **Example**: `Fix typo in login form` (not `fix typo in login form`).
+
+#### 3. **Keep It Short and Concise**
+   - Keep the commit message **50 characters or fewer** for the **subject line**. It should be a brief summary of the change.
+   - If necessary, add a detailed explanation in the body (after a blank line), but **avoid long descriptions in the subject**.
+   - **Example**: `Fix login issue with invalid credentials`.
+
+#### 4. **Use Prefixes for Categorization**
+   - Use standardized prefixes to categorize the nature of the commit. Common prefixes include:
+     - `fix:` – For bug fixes.
+     - `feat:` – For new features.
+     - `docs:` – For documentation changes.
+     - `chore:` – For routine tasks, such as refactoring or maintenance.
+     - `style:` – For formatting changes (e.g., code style).
+     - `test:` – For adding or modifying tests.
+   
+   - **Examples**:
+     - `feat: Add user registration page`
+     - `fix: Resolve issue with form validation`
+     - `docs: Update README with setup instructions`
+     - `chore: Refactor authentication module`
+
+#### 5. **Provide Context**
+   - If necessary, provide **context** for why the change is being made, especially for larger or more complex changes. If the commit is not self-explanatory, add a detailed explanation in the body of the message.
+   
+   - **Example**:
+     ```plaintext
+     feat: Add social login options
+
+     Added Google and Facebook login options to improve user onboarding experience.
+     ```
+   
+#### 6. **Avoid Redundancy**
+   - Don't repeat the same information. For example, don’t start the message with "Update" or "Fix," as these are implied by the context.
+   - **Bad**: `Update the login page`
+   - **Good**: `Fix login page display issue`
+
+#### 7. **Reference Issues or Pull Requests**
+   - If your commit relates to an open issue or pull request, reference it in the commit message (e.g., `Fixes #123` or `Closes #45`).
+   - **Example**: `fix: Correct user permissions logic (Closes #123)`
+
