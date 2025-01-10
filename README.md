@@ -91,6 +91,8 @@ Click on Signup and create your Github account (It is similar to creating instag
 | Examples       | `git init`, `git commit`, `git push`.       | Pull requests, issue tracking, CI/CD.       |
 
 
+<hr>
+
 <h2>Configure Git<h2/>
 
 Link your Git to GitHub by setting your email and name:
