@@ -123,3 +123,6 @@ git config --list
 <br>
 
 <h2>Creating our first repository<h2/>
+  
+1. Sign In to GitHub
+Go to (https://github.com/) and log in to your account.
