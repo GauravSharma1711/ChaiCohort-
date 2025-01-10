@@ -13,3 +13,4 @@ To solve this, you leverage the alumni network and form a team with a beginner b
 💔 The Problem: You and Gaurav live in different cities. How will you both collaborate on the same codebase?
 
 Gaurav comes to the rescue:
+"We can use a centralized codebase to share and update our code."
