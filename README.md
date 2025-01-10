@@ -52,6 +52,8 @@ Learn and Share: Discover open-source projects or share your own
 <h2>Installation and Setup:<h2/>
   
 1. Install Git
+
+Download Git: https://git-scm.com/downloads
 ![git-scm com_downloads](https://github.com/user-attachments/assets/2be67d7f-a029-472a-b693-ef638cb82863)
 
 
