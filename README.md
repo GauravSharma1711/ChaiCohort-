@@ -236,6 +236,7 @@ The git pull command is used to fetch and integrate changes from a remote reposi
 
 <br>
 
+<hr>
 
 ### Commit Message Rules
 
