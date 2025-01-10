@@ -31,3 +31,19 @@ Undo Mistakes: Revert to an earlier version if something breaks.
 Collaborate: Work with multiple developers on the same project without conflicts.
 
 Think of Git as software running on your computer to manage your project files.
+
+<hr>
+
+<h2>What is GitHub?</h2h2>
+
+GitHub is an online platform that hosts your Git repositories. It’s like Google Drive but specifically for code.
+
+With GitHub, you can:
+
+Backup Code: Save your code in the cloud for safekeeping.
+
+Collaborate: Work with others on the same project.
+
+Track Changes: View the history of edits and contributions.
+
+Learn and Share: Discover open-source projects or share your own
