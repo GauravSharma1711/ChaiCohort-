@@ -346,6 +346,7 @@ It lets you tell others about changes you've pushed to a branch in a repository 
     added dashboard feature to main
    <img width="674" alt="image" src="https://github.com/user-attachments/assets/a046de99-6070-4719-9274-20f026e6dea0" />
 <br>
+<br>
    added button to bug-fix
    <img width="605" alt="image" src="https://github.com/user-attachments/assets/5e05f603-0528-4a5f-8b89-446b63c63fcf" />
 <br>
