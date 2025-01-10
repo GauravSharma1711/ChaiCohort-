@@ -343,10 +343,51 @@ Use circled options to resolve merge conflict
 <br>
 It lets you tell others about changes you've pushed to a branch in a repository on github
 <br>
-<img width="692" alt="image" src="https://github.com/user-attachments/assets/b0f1d7d4-b9dd-49ee-b904-ddf4feeb009f" />
-<img width="695" alt="image" src="https://github.com/user-attachments/assets/1d9867d4-d16b-4df9-b152-9cc511032c7e" />
+added dashboard feature to main
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/a046de99-6070-4719-9274-20f026e6dea0" />
+<br>
+added button to bug-fix
+<img width="605" alt="image" src="https://github.com/user-attachments/assets/5e05f603-0528-4a5f-8b89-446b63c63fcf" />
+
 <br>
 now we have made changes in main and bug-fix branch 
+<br>
+
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/04a28d01-beb5-48d1-904d-f7b7c306ec1f" />
+<br>
+click on compare&merge pull request
+
+<br>
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/30cd2f5c-fdae-4836-8f9e-3abe44d2bcb3" />
+<br>
+click on create pull request
+<br>
+
+
+<br>
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/b42d611f-1be7-42a9-9eeb-3b37b79f58ec" />
+<br>
+resolve conflicts
+<br>
+and merge
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/7ce42a2c-63da-4630-9acc-27a5298c9b9b" />
+
+<br>
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/ee490d11-39c8-4c07-8d78-9943bae63016" />
+
+<br>
+🎉 Hurray! Merge Completed! 🎉
+
+<hr>
+
+### Conclusion
+
+Great job! 🎉 You've learned the basics of Git and GitHub, including branching, committing, and collaborating. Keep practicing, follow good Git practices, and happy coding! 🚀
+
+Feel free to reach out if you have any questions. 😊
+
+
+
 
 
 
