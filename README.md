@@ -138,7 +138,7 @@ Hurray! 🎉 Your repo has been created! 🚀
 
 
 <h1>Cloning the ChaiCode Repository:<h1/>
-Now firstly create a folder(chaaicohort) in your system and open it in your codeEditor
+Now firstly create a folder(chaicohort) in your system and open it in your codeEditor
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/3d142573-719f-44ff-8fb5-c903f5fae891" />
   No code editor? No worries, we’ve got you covered! 🚀💻
 To install Visual Studio Code (VS Code), follow the steps
