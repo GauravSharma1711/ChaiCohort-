@@ -289,9 +289,38 @@ To ensure meaningful and standardized commit messages, follow these rules:
    - **Example**: `fix: Correct user permissions logic (Closes #123)`
 
 <br>
+
+<hr>
+
 <h1>Branching<h1/>
 <br>
 Git branching allows you to create separate lines of development for different features, bug fixes, or experiments, without affecting the main codebase.
 
+1 git branch
+To check branch
+```
+git branch
+```
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/f84058b8-18b7-42d9-9f66-0c60b5052726" />
+
+<br>
+
+2 To create new branch
+```
+git checkout -b <new branch name>
+```
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/1ff21e5f-bb10-4db0-bbc3-8d529067a462" />
+
+<br>
+
+3 to delete branch
+```
+git branch -d <branch name>
+```
+<img width="658" alt="image" src="https://github.com/user-attachments/assets/46d1e993-f934-409e-b3d7-dffdc566eb47" />
+
+<br>
+
+<hr>
 
 
