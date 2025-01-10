@@ -131,3 +131,6 @@ Open dashboard and click on new
 <img width="1344" alt="github com_new" src="https://github.com/user-attachments/assets/2e45057c-3b6b-4365-8d58-228a73da07b4" />
 Give name to your repo(ChaiCode) ,give it a description, add a README file (
 A README file is a text file that serves as the documentation for a project) after that click on create repository
+<br>
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/8840b544-99b1-4593-b5cf-310e2110cab4" />
+Hurray! 🎉 Your repo has been created! 🚀
