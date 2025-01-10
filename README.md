@@ -173,3 +173,4 @@ Hurray! 🎉 Your chaicode repository has been cloned from your Github account t
 git status
 ```
 <img width="584" alt="image" src="https://github.com/user-attachments/assets/e4d7a57d-9216-41f1-93b3-7b0c4e507c3e" />
+here cd means change directory i.e now i m inside chaiCode folder
