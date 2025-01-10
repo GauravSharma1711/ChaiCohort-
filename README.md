@@ -217,5 +217,24 @@ git log
 
 The git log command is used to view the commit history of a repository.
 <br>
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/51fefb01-31dd-4f91-95d5-b14fc7628f76" />
+
+<br>
+
+6.Git pull
+```
+git pull <remote> <branch>
+git pull origin main
+```
+The git pull command is used to fetch and integrate changes from a remote repository into your local repository
+<br>
+
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/9dc71990-fd9c-4426-bd60-26745edcf799" />
+
+I made some changes in test.txt and want them to reflect back on my local repo
 ![Uploading image.png…]()
+<br>
+
+
+<h1>Commit Message Rules:<h1/>
 
