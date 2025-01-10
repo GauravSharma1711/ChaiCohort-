@@ -61,4 +61,5 @@ After installation, open a terminal and type:
 ```bash
 git --version
 
+```
 This checks if Git is installed correctly.
