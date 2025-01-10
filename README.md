@@ -48,3 +48,10 @@ Track Changes: View the history of edits and contributions.
 Learn and Share: Discover open-source projects or share your own
 
 <hr>
+
+<h2>Installation and Setup:<h2/>
+  
+1. Install Git
+
+![git-scm com_](https://github.com/user-attachments/assets/7932a6c7-6e0b-4c3c-a629-2573394e791f)
+
