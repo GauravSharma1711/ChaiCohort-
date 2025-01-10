@@ -69,8 +69,13 @@ This checks if Git is installed correctly.
 <h2>Creating Github Account<h2/>
 (https://github.com/)
 <img width="938" alt="image" src="https://github.com/user-attachments/assets/aecd723b-9c13-4431-8b6f-36b88187f461" />
+
+
+  
 <Br>
 Click on Signup and create your Github account (It is similar to creating instagram account)
+
+
 <Br>
 <img width="932" alt="image" src="https://github.com/user-attachments/assets/3a0a7315-21f6-47a7-bfb6-85dd36099b4f" />
 
