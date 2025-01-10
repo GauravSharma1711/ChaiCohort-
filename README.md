@@ -210,10 +210,12 @@ test.txt has been uploaded on your Github
 <br>
 
 5 git log
+
 ```
 git log
 ```
 
 The git log command is used to view the commit history of a repository.
+<br>
 ![Uploading image.png…]()
 
