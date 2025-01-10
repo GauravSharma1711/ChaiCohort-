@@ -383,7 +383,7 @@ resolve conflicts and merge
 
 Great job! 🎉 You've learned the basics of Git and GitHub, including branching, committing, and collaborating. Keep practicing, follow good Git practices, and happy coding! 🚀
 
-Feel free to reach out if you have any questions. 😊
+
 
 
 
