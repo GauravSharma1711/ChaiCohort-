@@ -151,4 +151,7 @@ Download based on your operating system:
 Now,
 to clone your repository present in your Githuhub account to your local machine
 <img width="931" alt="image" src="https://github.com/user-attachments/assets/c770f87f-1dd4-471b-89f1-97961e1aad86" />
+click on code and 
+<img width="799" alt="image" src="https://github.com/user-attachments/assets/33cf52e0-d1c6-4366-819a-b54fe9ac92ac" />
+copy this link
 
