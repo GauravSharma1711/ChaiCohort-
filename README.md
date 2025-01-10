@@ -340,5 +340,14 @@ Use circled options to resolve merge conflict
 <hr>
 
 <h1>Pull Request</h1>
+<br>
+It lets you tell others about changes you've pushed to a branch in a repository on github
+<br>
+<img width="692" alt="image" src="https://github.com/user-attachments/assets/b0f1d7d4-b9dd-49ee-b904-ddf4feeb009f" />
+<img width="695" alt="image" src="https://github.com/user-attachments/assets/1d9867d4-d16b-4df9-b152-9cc511032c7e" />
+<br>
+now we have made changes in main and bug-fix branch 
+
+
 
 
