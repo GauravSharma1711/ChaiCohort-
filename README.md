@@ -104,3 +104,18 @@ git config --global user.name "Your Name"
 
 git config --list
 ```
+
+# Basic Git Terminology
+
+| Term               | Definition                                                                                     |
+|--------------------|-----------------------------------------------------------------------------------------------|
+| **Repository**      | A project directory where Git tracks changes, locally or remotely.                           |
+| **Commit**          | A snapshot of changes saved in the repository's history.                                      |
+| **Branch**          | A separate line of development within a repository.                                           |
+| **Merge**           | Combines changes from one branch into another.                                                |
+| **Push**            | Sends local changes to a remote repository.                                                  |
+| **Pull**            | Fetches and integrates changes from a remote repository.                                     |
+| **Clone**           | Creates a local copy of a remote repository.                                                 |
+| **Staging Area**    | A space where changes are prepared before committing.                                         |
+| **Conflict**        | An issue that occurs during a merge when changes in branches conflict.                       |
+| **.gitignore**      | A file used to specify files or directories that Git should ignore.                           |
