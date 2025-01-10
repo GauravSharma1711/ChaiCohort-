@@ -332,7 +332,7 @@ Now merging both codes
 <br>
 <img width="692" alt="image" src="https://github.com/user-attachments/assets/c0906135-cba2-4e41-a9de-49a2351a88c8" />
 <br>
-Use circle option to resolve merge conflict
+Use circled options to resolve merge conflict
 <br>
 
 
