@@ -126,3 +126,4 @@ git config --list
   
 1. Sign In to GitHub
 Go to (https://github.com/) and log in to your account.
+<img width="958" alt="Screenshot 2025-01-10 221224" src="https://github.com/user-attachments/assets/84730ecf-4e55-4523-8ea2-ce0a0126169d" />
