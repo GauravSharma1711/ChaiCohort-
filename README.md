@@ -1,2 +1,1 @@
-# ChaiCohort-
-This is a git documentation for  beginers
+<h1>Git & GitHub Guide for Chai Cohort Members 🚀<h1/>
