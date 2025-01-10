@@ -80,20 +80,13 @@ Click on Signup and create your Github account (It is similar to creating instag
 <img width="932" alt="image" src="https://github.com/user-attachments/assets/3a0a7315-21f6-47a7-bfb6-85dd36099b4f" />
 
 
-Git vs. GitHub
+# Key Differences Between Git and GitHub
 
-Git
+| Feature        | Git                                          | GitHub                                       |
+|----------------|---------------------------------------------|---------------------------------------------|
+| Definition     | A distributed version control system.       | A cloud-based platform for Git repositories.|
+| Purpose        | Tracks changes in the code locally.         | Facilitates collaboration and sharing online.|
+| Installation   | Installed on your local machine.            | Accessible via a web browser or desktop app.|
+| Usage          | Version control and history management.     | Hosting repositories and team collaboration.|
+| Examples       | `git init`, `git commit`, `git push`.       | Pull requests, issue tracking, CI/CD.       |
 
-GitHub
-
-Installed on your computer
-
-A website for hosting repositories
-
-Tracks changes locally
-
-Stores code online
-
-Works without the internet
-
-Requires the internet to sync code
