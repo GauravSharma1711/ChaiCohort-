@@ -17,3 +17,17 @@ Gaurav comes to the rescue:
 "We can use a centralized codebase to share and update our code."
 
 The solution? Git & GitHub.
+
+<h2>What is Git?<h2/>
+
+Git is a version control system (VCS) that tracks changes in your code and helps you collaborate with others. It’s like a time machine for your code.
+
+With Git, you can:
+
+Save Snapshots: Capture the state of your code at different points (called commits).
+
+Undo Mistakes: Revert to an earlier version if something breaks.
+
+Collaborate: Work with multiple developers on the same project without conflicts.
+
+Think of Git as software running on your computer to manage your project files.
