@@ -63,3 +63,7 @@ git --version
 
 ```
 This checks if Git is installed correctly.
+
+
+
+<h2>Creating Github Account<h2/>
