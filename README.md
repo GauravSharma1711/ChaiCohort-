@@ -367,9 +367,8 @@ click on create pull request
 <br>
 <img width="937" alt="image" src="https://github.com/user-attachments/assets/b42d611f-1be7-42a9-9eeb-3b37b79f58ec" />
 <br>
-resolve conflicts
+resolve conflicts and merge
 <br>
-and merge
 <img width="647" alt="image" src="https://github.com/user-attachments/assets/7ce42a2c-63da-4630-9acc-27a5298c9b9b" />
 
 <br>
