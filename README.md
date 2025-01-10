@@ -202,4 +202,16 @@ The git push command is used to upload local repository content to a remote repo
 ```
 git push origin main
 ```
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/b4861b8c-9679-4bab-8043-14175b276344" />
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/a8f7563b-ead3-407a-afa4-9569e2d884e1" />
+<br>
+test.txt has been uploaded on your Github
+<br>
+5 git log
+```
+git log
+```
+
+The git log command is used to view the commit history of a repository.
 ![Uploading image.png…]()
+
