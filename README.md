@@ -237,4 +237,18 @@ I made some changes in test.txt and want them to reflect back on my local repo
 
 
 <h1>Commit Message Rules:<h1/>
+### 1. **Commit Regularly**
+   - **Make frequent commits** to track incremental changes. Commit early and often to ensure you're not overwhelmed by a large number of changes at once. Small, frequent commits make it easier to troubleshoot and maintain your codebase.
+   
+### 2. **Use Descriptive Commit Messages**
+   - **Write clear and descriptive commit messages** that explain why a change was made, not just what was changed. This helps teammates (and your future self) understand the purpose of a commit without needing to review all the code changes.
+   - **Commit message format**:
+     - Start with a **short, concise summary** of the change (50 characters or fewer).
+     - Follow with a **blank line**.
+     - Provide **detailed explanation** if necessary, especially if the change is complex.
+     
+   Example:
+   ```plaintext
+   Add user authentication feature
 
+   Implemented a login system with email and password validation. Added error handling for invalid credentials. 
