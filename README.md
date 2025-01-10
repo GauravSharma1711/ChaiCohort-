@@ -58,5 +58,7 @@ Download Git: https://git-scm.com/downloads
 
 After installation, open a terminal and type:
 
-`git --version`
+```bash
+git --version
+
 
