@@ -177,3 +177,29 @@ git status
 here cd means change directory i.e now i m inside chaiCode folder
 <br>
 status command displays the state of code
+<br>
+2.Git add command
+```
+git add <filename>
+```
+The git add command stages changes in your working directory, preparing them to be committed to the local repository.
+<img width="902" alt="Screenshot 2025-01-10 232623" src="https://github.com/user-attachments/assets/533cfeec-bee1-4f63-80f1-3ebaa5f5a915" />
+<img width="653" alt="image" src="https://github.com/user-attachments/assets/b4049dd5-0047-4ae2-8365-4a035f29e844" />
+<br>
+Now the file test.txt is tracked by git and is ready to commit
+<br>
+3. commit command
+```
+git commit -m "some message"
+```
+
+The git commit command is used to save the staged changes to the local repository, creating a snapshot of your project at that point in time.
+<br>
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/ff7a742d-08b2-4348-8b02-da486c2e840b" />
+<br>
+4.Push command
+The git push command is used to upload local repository content to a remote repository.
+```
+git push origin main
+```
+![Uploading image.png…]()
