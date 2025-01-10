@@ -99,8 +99,8 @@ Link your Git to GitHub by setting your email and name:
 
 ```
 git config --global user.email "your-email@example.com"
-<br>
+
 git config --global user.name "Your Name"
-<br>
+
 git config --list
 ```
