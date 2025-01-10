@@ -134,3 +134,7 @@ A README file is a text file that serves as the documentation for a project) aft
 <br>
 <img width="943" alt="image" src="https://github.com/user-attachments/assets/8840b544-99b1-4593-b5cf-310e2110cab4" />
 Hurray! 🎉 Your repo has been created! 🚀
+
+
+
+<h1>Cloning the ChaiCode Repository:<h1/>
