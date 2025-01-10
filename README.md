@@ -119,3 +119,7 @@ git config --list
 | **Staging Area**    | A space where changes are prepared before committing.                                         |
 | **Conflict**        | An issue that occurs during a merge when changes in branches conflict.                       |
 | **.gitignore**      | A file used to specify files or directories that Git should ignore.                           |
+
+<br>
+
+<h2>Creating our first repository<h2/>
