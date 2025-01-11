@@ -304,11 +304,14 @@ To ensure meaningful and standardized commit messages, follow these rules:
 <hr>
 
 <h1>Branching<h1/>
+  <br>
+  Imagine you and your friend  are writing a story together. You’re in charge of writing Chapter 1, while your friend is working on Chapter 2.
+Instead of writing in the same notebook (and risking messing up each other’s work), you decide to write on two separate pieces of paper. Later, when both chapters are done, you’ll combine them into one notebook.
+  <br>
 <br>
 Git branching allows you to create separate lines of development for different features, bug fixes, or experiments, without affecting the main codebase.
 
-1 git branch
-To check branch
+1 To check current branch
 ```
 git branch
 ```
