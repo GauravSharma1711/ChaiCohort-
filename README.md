@@ -177,7 +177,9 @@ git status
 here cd means change directory i.e now i m inside chaiCode folder
 <br>
 status command displays the state of code
+
 <br>
+
 2.Git add command
 ```
 git add <filename>
