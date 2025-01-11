@@ -239,7 +239,7 @@ git pull origin main
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/51fefb01-31dd-4f91-95d5-b14fc7628f76" />
 The git pull command is used to fetch and integrate changes from a remote repository into your local repository
 <br>
-<img width="928" alt="image" src="https://github.com/user-attachments/assets/7e8c36ec-5eee-4a73-b0c9-e146985fdbc6" />
+
 
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/9dc71990-fd9c-4426-bd60-26745edcf799" />
