@@ -105,7 +105,7 @@ git config --global user.name "Your Name"
 git config --list
 ```
 
-# Basic Git Terminology
+# Basic  Terminology
 
 | Term               | Definition                                                                                     |
 |--------------------|-----------------------------------------------------------------------------------------------|
