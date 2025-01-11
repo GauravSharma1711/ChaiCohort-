@@ -209,10 +209,10 @@ The git commit command is used to save the staged changes to the local repositor
 
 
 4.Push command
-The git push command is used to upload local repository content to a remote repository.
 ```
 git push origin main
 ```
+The git push command is used to upload local repository content to a remote repository.
 <img width="690" alt="image" src="https://github.com/user-attachments/assets/b4861b8c-9679-4bab-8043-14175b276344" />
 <br>
 test.txt has been uploaded on your Github
