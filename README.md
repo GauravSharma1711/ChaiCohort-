@@ -237,6 +237,7 @@ git pull <remote> <branch>
 git pull origin main
 ```
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/51fefb01-31dd-4f91-95d5-b14fc7628f76" />
+<br>
 The git pull command is used to fetch and integrate changes from a remote repository into your local repository
 <br>
 
