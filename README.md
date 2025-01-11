@@ -213,9 +213,9 @@ The git commit command is used to save the staged changes to the local repositor
 git push origin main
 ```
 The git push command is used to upload local repository content to a remote repository.
+test.txt has been uploaded on your Github
 <img width="690" alt="image" src="https://github.com/user-attachments/assets/b4861b8c-9679-4bab-8043-14175b276344" />
 <br>
-test.txt has been uploaded on your Github
 
 <br>
 
@@ -228,7 +228,6 @@ git log
 
 The git log command is used to view the commit history of a repository.
 <br>
-<img width="925" alt="image" src="https://github.com/user-attachments/assets/51fefb01-31dd-4f91-95d5-b14fc7628f76" />
 
 <br>
 
@@ -237,6 +236,7 @@ The git log command is used to view the commit history of a repository.
 git pull <remote> <branch>
 git pull origin main
 ```
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/51fefb01-31dd-4f91-95d5-b14fc7628f76" />
 The git pull command is used to fetch and integrate changes from a remote repository into your local repository
 <br>
 <img width="928" alt="image" src="https://github.com/user-attachments/assets/7e8c36ec-5eee-4a73-b0c9-e146985fdbc6" />
