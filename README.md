@@ -310,7 +310,8 @@ Instead of writing in the same notebook (and risking messing up each other’s w
   <br>
 <br>
 Git branching allows you to create separate lines of development for different features, bug fixes, or experiments, without affecting the main codebase.
-
+<br>
+  
 1 To check current branch
 ```
 git branch
