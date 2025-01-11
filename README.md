@@ -169,6 +169,10 @@ Hurray! 🎉 Your chaicode repository has been cloned from your Github account t
 
 <h1>Basic Git Commands:<h1/>
 
+<br>
+
+1.Git status command
+
 ```
 git status
 ```
@@ -180,6 +184,7 @@ status command displays the state of code
 
 <br>
 
+
 2.Git add command
 ```
 git add <filename>
@@ -189,7 +194,9 @@ The git add command stages changes in your working directory, preparing them to 
 <img width="653" alt="image" src="https://github.com/user-attachments/assets/b4049dd5-0047-4ae2-8365-4a035f29e844" />
 <br>
 Now the file test.txt is tracked by git and is ready to commit
+
 <br>
+
 3. commit command
 ```
 git commit -m "some message"
@@ -199,6 +206,8 @@ The git commit command is used to save the staged changes to the local repositor
 <br>
 <img width="689" alt="image" src="https://github.com/user-attachments/assets/ff7a742d-08b2-4348-8b02-da486c2e840b" />
 <br>
+
+
 4.Push command
 The git push command is used to upload local repository content to a remote repository.
 ```
@@ -210,8 +219,8 @@ test.txt has been uploaded on your Github
 
 <br>
 
-5 git log
 
+5 git log
 ```
 git log
 ```
