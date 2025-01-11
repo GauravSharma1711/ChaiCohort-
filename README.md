@@ -8,11 +8,11 @@ Imagine this:
 
 Your company, Chai Cohort, is hosting a mini-hackathon with exciting gifts for the winners! 🎉 You’re eager to participate but there's a catch – it’s a full-stack web development hackathon, and you only know HTML, CSS, JavaScript, and basic React.
 
-To solve this, you leverage the alumni network and form a team with a beginner backend developer, Gaurav. Everything seems great, except…
+To solve this, you leverage the alumni network and form a team with a beginner backend developer, raman. Everything seems great, except…
 
-💔 The Problem: You and Gaurav live in different cities. How will you both collaborate on the same codebase?
+💔 The Problem: You and raman live in different cities. How will you both collaborate on the same codebase?
 
-Gaurav comes to the rescue:
+Raman comes to the rescue:
 <Br>
 "We can use a centralized codebase to share and update our code."
 
